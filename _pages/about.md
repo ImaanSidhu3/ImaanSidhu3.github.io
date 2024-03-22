@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. imaansidhu3@gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: TLPS-5920.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Currently based in New York, NY</p>
