@@ -5,15 +5,15 @@
     "image": "",
     "email": "imaansidhu3@gmail.com",
     "phone": "(209) 531-8863",
-    "url": "https://www.linkedin.com/in/imaansidhu"
+    "LinkedIN": "https://www.linkedin.com/in/imaansidhu"
   },
   "work": [
     {
       "name": "Navios Maritime Holdings",
       "position": "Operations Engineering Intern",
       "url": "https://www.navios.com/",
-      "startDate": "06-2023",
-      "endDate": "08-2023",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
       "summary": "Description for Navios",
       "highlights": ["Shipbuilding"]
     }
@@ -21,8 +21,8 @@
       "name": "Rolls-Royce Corporation",
       "position": "Manufacturing/Industrial Engineering Intern",
       "url": "https://www.rolls-royce.com/country-sites/northamerica.aspx",
-      "startDate": "06-2021",
-      "endDate": "08-2021",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
       "summary": "Description for Rolls-Royce",
       "highlights": ["Aviation"]
     }
@@ -30,8 +30,8 @@
       "name": "E&J Gallo Winery",
       "position": "Packaging Engineering Intern",
       "url": "https://www.gallo.com/",
-      "startDate": "05-2020",
-      "endDate": "08-2020",
+      "startDate": "2020-05",
+      "endDate": "2020-08",
       "summary": "Description for Gallo",
       "highlights": ["Food & Beverage"]
     }
@@ -39,8 +39,8 @@
       "name": "Kihomac Inc",
       "position": "Aerospace Engineering Intern",
       "url": "https://www.kihomac.com/",
-      "startDate": "04-2019",
-      "endDate": "07-2019",
+      "startDate": "2019-04",
+      "endDate": "2019-07",
       "summary": "Description for Kihomac",
       "highlights": ["Aviation"]
     }
@@ -52,8 +52,8 @@
       "location": "New York, NY",
       "area": "Mechanical Engineering",
       "studyType": "Masters of Science",
-      "startDate": "08-2022",
-      "endDate": "12-2024",
+      "startDate": "2022-08",
+      "endDate": "2024-12",
       "score": "10",
       "courses": ["Applications of Aerodynamics", "Turbulent Flow and Modeling", "Introduction to Quantitative Finance", "Aerospace Human Factors"]
     }
@@ -62,8 +62,8 @@
       "location": "West Lafayette, IN",
       "area": "Aerospace and Astronautical Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "08-2018",
-      "endDate": "05-2022",
+      "startDate": "2018-08",
+      "endDate": "2022-05",
       "score": "10",
       "courses": ["Applications of Statics"]
     }
