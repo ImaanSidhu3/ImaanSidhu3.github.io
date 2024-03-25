@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Imaan Sidhu
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Status
+      value: US Citizen
     - name: Languages
-      value: English, Punjabi
+      value: English (native), Punjabi (fluent)
 
 - title: Education
   type: time_table
@@ -43,6 +43,8 @@
     - title: Packaging Engineering Intern
       institution: E&J Gallo Winery
       year: 2020
+      description:
+        - Modesto, CA
 
     - title: Aerospace Engineering Intern
       institution: Kihomac Incorporated
@@ -51,26 +53,32 @@
         - Layton, UT
 
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Academic Interests
+- title: Coursework
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Columbia University
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Advanced Mechanics of Fluids
+        - Turbulence Theory and Modeling
+        - Digital Manufacturing
+        - Introduction to Human Space Flight
+        - Introduction to Space Mining Processes
+        - Finite Element Analysis
+        - Applications of Data Science for Engineers
+        - Aerospace Human Factors
+    - title: Purdue University
       items:
-        - Description 1.
-        - Description 2.
+        - Orbital Analysis
+        - Spacecraft Design
+        - Flight Dynamics and Control
+        - Zero-Gravity Flight Experiments
+        - Introducction to Computational Fluid Dynamics
+        - Systems Methods
+        - Control Systems Analysis
+        - Fluid Mechanics
+        - Structural Analysis
+        - Signal Analysis
+        - Thermodynamics
+        - Electricity Optics
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
