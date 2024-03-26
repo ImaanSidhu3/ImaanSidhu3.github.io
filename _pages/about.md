@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS student @ <a href='https://www.engineering.columbia.edu/'>Columbia Engineering</a>.
+subtitle: MS student @ <a href='https://www.engineering.columbia.edu/'>Columbia Engineering</a>. Formerly @ <a href='https://www.mit.edu/'>MIT</a> & <a href='https://www.octant.bio/'>Octant Bio</a>.     
+
 
 
 profile:
