@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Imaan Sidhu
+    - name: Email
+      value: imaansidhu3@gmail.com
     - name: Status
       value: US Citizen
     - name: Languages
@@ -52,6 +54,15 @@
       description:
         - Layton, UT
 
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Columbia Astrophysics Laboratory - OSHWA Project
+      items:
+        - Marka, Zsuzsa, et al. “End-to-End Testing of Open-Source Hardware Documentation Developed in Large Collaborations.” Columbia Astrophysics Laboratory, 03 August 2023.
+    - title: Purdue MIDFIELD - Institutional Policy Review
+      items:
+        - Brawner, Cathy, et al. “Colorado School of Mines 1999-2019.” Purdue MIDFIELD, 13 May 2020, midfield.online/policy-summary/.
 
 
 - title: Coursework
@@ -81,4 +92,5 @@
         - Signal Analysis
         - Thermodynamics
         - Electricity Optics
+
 
