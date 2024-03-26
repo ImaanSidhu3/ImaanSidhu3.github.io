@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS student @ <a href='https://www.engineering.columbia.edu/'>Columbia Engineering</a>.
+subtitle: <a href='https://www.engineering.columbia.edu/'>Email</a>.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hello! 
