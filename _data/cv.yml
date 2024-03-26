@@ -54,11 +54,13 @@
       description:
         - Layton, UT
 
+
 - title: Publications
   type: nested_list
   contents:
     - title: Columbia Astrophysics Laboratory - OSHWA Project
       items:
+        - pub_pdf: CSM_Summary.pdf
         - Marka, Zsuzsa, et al. “End-to-End Testing of Open-Source Hardware Documentation Developed in Large Collaborations.” Columbia Astrophysics Laboratory, 03 August 2023.
     - title: Purdue MIDFIELD - Institutional Policy Review
       items:
