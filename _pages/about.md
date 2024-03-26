@@ -1,6 +1,8 @@
 ---
 layout: about
 title: about
+permalink: /
+subtitle: MS student @ <a href='https://www.engineering.columbia.edu/'>Columbia Engineering</a>.
 
 
 profile:
