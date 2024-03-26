@@ -1,8 +1,6 @@
 ---
 layout: about
 title: about
-permalink: imaansidhu3@gmail.com
-subtitle: <a href='#'>Email:</a>. 
 
 profile:
   align: right
