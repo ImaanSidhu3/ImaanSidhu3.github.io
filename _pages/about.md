@@ -1,9 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='imaansidhu3@gmail.com/'>Email</a>
-subtitle: <a href='https://www.linkedin.com/in/imaansidhu'>LinkedIN</a>
+
 
 profile:
   align: right
