@@ -1,13 +1,15 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Parker Solar Probe Redesign
+description: My senior capstone project at Purdue University
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: Academic
+related_publications: false
 ---
 
+
+For my senior capstone project at Purdue, a team of fellow aerospace engineers and I designed an updated version of the Parker Solar Probe and created a mission to demonstrate its possible applications. The project involved a complete conceptual overhaul of the probe's technical ability...
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
