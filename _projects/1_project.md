@@ -2,7 +2,7 @@
 layout: page
 title: Parker Solar Probe Redesign
 description: My senior capstone project at Purdue University
-img: assets/img/12.jpg
+img: assets/img/PSP_cover.jpg
 importance: 1
 category: Academic
 related_publications: false
