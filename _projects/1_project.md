@@ -11,7 +11,16 @@ related_publications: false
 
 For my senior capstone project at Purdue, a team of fellow aerospace engineers and I designed an updated version of the Parker Solar Probe and created a mission to demonstrate its possible applications. The project involved a complete conceptual overhaul of the probe's technical ability as well as a replanning of the orbital trajectory.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/PSP_mission_design.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image describes our overall mission redesign, accounting for new instrumentation, the resulting difference in mass, and optimal trajectory with a reimagined launch date.
+</div>
 
+<!--
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/PSP_mission_design.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -26,14 +35,8 @@ For my senior capstone project at Purdue, a team of fellow aerospace engineers a
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+-->
+
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
