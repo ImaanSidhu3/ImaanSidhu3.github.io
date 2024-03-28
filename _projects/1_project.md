@@ -9,29 +9,18 @@ related_publications: false
 ---
 
 
-For my senior capstone project at Purdue, a team of fellow aerospace engineers and I designed an updated version of the Parker Solar Probe and created a mission to demonstrate its possible applications. The project involved a complete conceptual overhaul of the probe's technical ability...
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+For my senior capstone project at Purdue, a team of fellow aerospace engineers and I designed an updated version of the Parker Solar Probe and created a mission to demonstrate its possible applications. The project involved a complete conceptual overhaul of the probe's technical ability as well as a replanning of the orbital trajectory.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PSP_mission_design.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PSP_Orbital_Analysis.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PSP_Monte_Carlo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
