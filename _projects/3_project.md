@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Data Science & Deep Learning Final Project
+description: My final project for Data Analysis for Engineers
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Academic
 ---
 
 Every project has a beautiful feature showcase page.
