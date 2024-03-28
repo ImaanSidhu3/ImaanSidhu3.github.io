@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: 3D Printing Food
+description: My final project for Digital Manufacturing involving 3D printing with Food
 img:
-importance: 3
-category: fun
+importance: 4
+category: Academic
 ---
 
 Every project has a beautiful feature showcase page.
