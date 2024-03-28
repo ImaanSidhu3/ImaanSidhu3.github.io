@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
+title: GCoding with Sewing Machines
 description: a project with a background image
 img: assets/img/1.jpg
-importance: 3
-category: fun
+importance: 2
+category: Personal
 ---
 
 Every project has a beautiful feature showcase page.
