@@ -27,10 +27,10 @@ TEXT
 
 <div class="row justify-content-sm-center">
     <div class="col">
-        {% include figure.liquid path="assets/img/Turbulence_Fig4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Turbulence_Fig4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid path="assets/img/Turbulence_Fig4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Turbulence_Fig4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
