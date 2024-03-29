@@ -4,7 +4,7 @@ title: 3D Printing Food
 description: My final project for Digital Manufacturing involving 3D printing with Food
 img:
 importance: 4
-category: Academic
+category: none
 ---
 
 Every project has a beautiful feature showcase page.
