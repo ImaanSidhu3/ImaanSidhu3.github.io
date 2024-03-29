@@ -5,7 +5,7 @@ description: My final project for Turbulence Theory and Modeling
 img: assets/img/Turbulence_Fig1.jpg
 importance: 2
 category: Academic
-giscus_comments: true
+giscus_comments: false
 ---
 
 <div class="row">
@@ -26,10 +26,10 @@ giscus_comments: true
 TEXT
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col">
         {% include figure.liquid path="assets/img/Turbulence_Fig4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0"">
+    <div class="col">
         {% include figure.liquid path="assets/img/Turbulence_Fig4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
