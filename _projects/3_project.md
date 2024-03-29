@@ -11,10 +11,10 @@ This was our project to predict the severity of accidents in Manhattan based on 
 
 <div class="row justify-content-sm-center">
     <div class="col">
-        {% include figure.liquid path="assets/img/DS_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid path="assets/img/DS_7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -39,10 +39,10 @@ This was our project to predict the severity of accidents in Manhattan based on 
 
 <div class="row justify-content-sm-center">
     <div class="col">
-        {% include figure.liquid path="assets/img/DS_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid path="assets/img/DS_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
