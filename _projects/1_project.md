@@ -17,59 +17,35 @@ For my senior capstone project at Purdue, a team of fellow aerospace engineers a
     </div>
 </div>
 <div class="caption">
-    This image describes our overall mission redesign, accounting for new instrumentation, the resulting difference in mass, and optimal trajectory with a reimagined launch date.
+    This image describes our overall mission redesign, accounting for new instrumentation, new propulsion methods, and a new trajectory. 
 </div>
 
-<!--
+The project focused on revamping the Parker Solar Probe with two scienfitic goals: Flying by another planet and achieving a stable orbit of < 0.5 AU. The initial stages of the project focused on choosing which scienfitic instruments would we changed and which planet would achieve the best gravity assist for our probe. 
+
+The trajectory model was written in MATLAB using fixed-point iteration. The parameters included the overall mass, solar sail size, and number of achievable passes around the Sun. The final orbit reached 0.35 AU from the Sun with growing inclination to cover the equator and poles of the Sun. 
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PSP_mission_design.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/PSP_Orbital_Analysis.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    This image shows the projections of the probe's orbit around the Sun as well as the classical orbital parameters 
+</div>
+
+
+The most important constraint of the project, as with most projects, was the overall budget. Capped at $300M, multiple factors were accounted for including production, launch, communication systems, and various recurring costs. Initial estimates were $291M but the point cost estimate was augmented by a 1,000,000 iteration Monte Carlo simulation based on uncertainties of each cost estimating relationship. The simulation predicted an 82% confidence of the programmatic costs being less than $300M, with a maximum cost overrun estimated to be less than 9% over the target.
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/PSP_Monte_Carlo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
--->
-
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    This image shows the Monte Carlo simulations of the cost model.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+This is a general overview of the project which lasted 6 months. We did additional work on: instrument selection, solar sail modeling, Hohmann transfer calculations, CAD modelling, telemetry and communication estimation, radiation and thermal analysis, power estimation, and attitude and controls. 
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Software used: MATLAB, Python, and Solidworks
+Techniques used: Pareto Analysis and Monte Carlo Simulations
