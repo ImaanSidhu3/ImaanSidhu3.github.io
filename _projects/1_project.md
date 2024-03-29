@@ -48,4 +48,5 @@ The most important constraint of the project, as with most projects, was the ove
 This is a general overview of the project which lasted 6 months. We did additional work on: instrument selection, solar sail modeling, Hohmann transfer calculations, CAD modelling, telemetry and communication estimation, radiation and thermal analysis, power estimation, and attitude and controls. 
 
 Software used: MATLAB, Python, and Solidworks
+
 Techniques used: Pareto Analysis and Monte Carlo Simulations
