@@ -2,7 +2,7 @@
 layout: page
 title: Turbulent Flow Final Project
 description: My final project for Turbulence Theory and Modeling
-img: assets/img/3.jpg
+img: assets/img/Turbulence_Fig1.jpg
 importance: 2
 category: Academic
 giscus_comments: true
