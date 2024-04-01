@@ -4,7 +4,7 @@ title: GCoding with Sewing Machines
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 2
-category: Personal
+category: None
 ---
 
 Every project has a beautiful feature showcase page.
