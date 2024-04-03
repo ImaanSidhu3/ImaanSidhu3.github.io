@@ -74,3 +74,21 @@ Finally, Neural Networks were used. As in the previous methodologies, the catego
 </div>
 
 The neural network performed adequately. The accuracy of the model typically peaked within the range of 65-66%, with the best ever performance achieving nearly 70% with ReLu as the activation function and having run for 300 epochs. However, this performance was not replicable with different splits of the data. Several different activation functions and loss functions were tried, with little significant change in the results of the model. The performance of these models does not improve with epochs over 100 or a change of activation function to sigmoid or tanh. Regardless of activation function, the neural network always appeared to filter out outliers, and failed to predict more than 2 injuries on any occasion. This hinders the usefulness of the model, as in the stated application the detection of outliers is of great significance.
+
+
+
+The best performing models were the Multinomial Bayesian Classifier and the Decision Tree. 
+
+Throughout the course of the project, we faced some challenges and accepted some limitations within its scope. Firstly, the dataset obtained from the City of New York consisted of many inaccuracies, incomplete information or variability in inputs. This is due to the fact that it is retrieved directly from police reports, which does not have a consistent format. Furthermore, the categorical nature of the data made it difficult to introduce regression to our model. This was noted as a challenge within the scope of linear and logistic regression, as well as within the neural network analysis. Within the data, there was a lack of relational parameters between the variables and it was difficult to assess or establish any link between different independent variables. Finally, after the initial data filtering exercise, we noted that there is a strong bias within the data towards 1 and 0 in the injury reporting. This meant that when comparing predicted against actual data, any value of persons other than 1 or 0 is treated as an outlier.
+
+
+Based on our findings, we were able to identify potential future extensions for the project.
+
+* Additional independent variables can be added to the model to account for time and situational            factors that may affect the severity of vehicle accidents. These variables include the date, ambient      weather conditions and road closures. 
+    
+* The model can be expanded to include the prediction of accident-related deaths in addition to injuries.
+
+* An interface system can be developed for dispatch operators to provide emergency responders with injury estimates. This will ensure that first responders will have the clearest possible picture in the case of an emergency scenario.
+
+* The model can be tested for a larger dataset, including data from previous years and other cities.
+
