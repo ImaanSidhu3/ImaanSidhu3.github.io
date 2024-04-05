@@ -30,17 +30,12 @@
       year: 2023
       description:
         - Imabari, Ehime, Japan
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
     - title: Manufacturing Engineering Intern
       institution: Rolls-Royce Corporation
       year: 2021
       description:
         - Indianapolis, IN
-        - Description 2.
 
     - title: Packaging Engineering Intern
       institution: E&J Gallo Winery
