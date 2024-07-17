@@ -12,7 +12,7 @@ The focus of this project was to examine two wall-bounded flows with different R
 
 TKE quantifies the intensity of velocity fluctuations and describes the energy distribution across the scales of motion. The TKE production term represents the rate of energy transfer from mean velocity gradients to turbulent fluctuations. By analyzing this term, the effects of production in the energy cascades can be determined. The TKE transport term represents the transfer of energy from one region of flow to the other. It is relevant in this problem to describe how energy transfers between the near-wall region and the outer region. Using the turbulent kinetic energy production and transport terms, information can be determined on the energy transfer within the flow and applications of Kolmogorov theory to these wall-bounded flows.
 
-Attached below is an abridged description of my the results from my analysis. The simulation and computation was done in MATLAB. First is a colormap of the flow within the first dataset that describes the flow distribution at various planes.
+Attached below is an abridged description of the results from my analysis. The simulation and computation was done in MATLAB. First is a colormap of the flow within the first dataset that describes the flow distribution at various planes.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Turbulence_Fig1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
