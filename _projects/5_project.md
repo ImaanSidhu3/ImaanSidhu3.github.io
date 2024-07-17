@@ -2,7 +2,7 @@
 layout: page
 title: Building a lamp from scratch
 description: a project with a background image
-img: assets/Real_lamp.jpg
+img: assets/img/Real_lamp.jpg
 importance: 2
 category: Personal
 ---
