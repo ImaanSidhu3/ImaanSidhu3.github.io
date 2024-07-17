@@ -11,9 +11,9 @@ This is an ongoing project of mine to build this lamp that I saw while travellin
 
 <div class="row justify-content-sm-center">
     <div class="col">
-        {% include figure.liquid loading="eager" path="assets/Iso_View.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Iso_View.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid loading="eager" path="assets/Side_View.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Side_View.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
