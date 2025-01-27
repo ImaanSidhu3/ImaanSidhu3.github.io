@@ -2,7 +2,7 @@
 layout: page
 title: Data Science & Deep Learning Final Project
 description: My final project for Data Analysis for Engineers
-img: assets/img/DS_8.jpg
+img: assets/img/DS_8.png
 importance: 3
 category: Academic
 ---
@@ -17,10 +17,10 @@ The data was collected from New York City Police Department's online database fo
 Linear and logistic regression was the first method used to predict the number of persons injured in an automotive accident. Encoded categorical data was not found to significantly improve the linear or logistic regressions. Because of the small range of persons injured,  regression had a limited ability to predict the outcome.
 <div class="row justify-content-sm-center">
     <div class="col">
-        {% include figure.liquid loading="eager" path="assets/img/DS_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.liquid loading="eager" path="assets/img/DS_7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_7.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,7 +33,7 @@ The results of both the linear and logistic regressions were found to be insigni
 Next, sklearn was implemented to build a decision tree library.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DS_9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_9.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -45,13 +45,13 @@ This approach proved to be far more successful. Through this approach ~70% class
 The third approach used was the Naive Bayes Classification, using the sklearn Naive Bayes library. This method is very similar to the decision tree structure but has the ability to probabilistically weigh output bins. We utilized a Gaussian, Multinomial, and Complement Naive Bayes. Through this technique, there was a slight improvement in classification accuracy, though statistically insignificant. The alpha value was 1.0 and we used a training split of 80/20. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DS_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DS_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DS_8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_8.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -66,7 +66,7 @@ Finally, Neural Networks were used. As in the previous methodologies, the catego
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DS_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DS_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
