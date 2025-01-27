@@ -2,8 +2,8 @@
 layout: page
 title: Minesweeper AI
 description: Part 2 of working up to a making a chess engine
-img:
-importance: 1
+img: assets/img/MS_start.png
+importance: 2
 category: Personal
 ---
 
