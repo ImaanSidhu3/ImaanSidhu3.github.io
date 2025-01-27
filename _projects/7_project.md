@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minesweeper AI
-description: Part 2 of working up to a chess enginer
+description: Part 2 of working up to a making a chess engine
 img:
 importance: 1
 category: Personal
