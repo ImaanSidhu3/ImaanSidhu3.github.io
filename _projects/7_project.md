@@ -42,4 +42,4 @@ This project honed my skills in Python, Pygame, and AI concepts like inference, 
     Here is the terminal view during the game, showing whether the AI is able to calculate a safe move or make a random guess.
 </div>
 
-All code for this project is viewable at: https://github.com/ImaanSidhu3/MineSweeper
+All code for this project is viewable at: [Link Text](https://github.com/ImaanSidhu3/MineSweeper)
