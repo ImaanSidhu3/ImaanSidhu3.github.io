@@ -25,6 +25,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Analyst 2
+      institution:  Deloitte
+      year: 2026
+      description:
+        - San Francisco, CA
+    - title: System Engineer (Contract)
+      institution:  E&J Gallo Winery
+      year: 2025
+      description:
+        - Lodi, CA
     - title: System Analyst (Contract)
       institution:  Entuber Stategy
       year: 2024
